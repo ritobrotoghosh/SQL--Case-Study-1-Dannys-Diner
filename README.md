@@ -34,7 +34,9 @@ The members table records important details about customers who joined the beta 
 
 ## Entity Relationship Diagram
 
-
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Entity%20Relationship%20Diagram.png' height="400">
+</p>
 
 ## Case Study Questions
 
