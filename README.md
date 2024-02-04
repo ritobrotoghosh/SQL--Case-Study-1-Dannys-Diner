@@ -1,7 +1,7 @@
 # SQL--Case-Study-1-Dannys-Diner
 
 <p align="center">
-    <img src='''https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Danny's%20Diner.png''' height="400">
+    <img src="https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Danny's%20Diner.png" height="400">
 </p>
 
 ## Introduction
