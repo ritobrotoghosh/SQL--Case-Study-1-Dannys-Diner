@@ -73,17 +73,17 @@ Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner
     - A -> curry,sushi
     - B -> curry
     - C -> ramen
-Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q3.sql)
+    - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q3.sql)
 
 - Most Purchased Item:
     - ramen -> 8
-Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q4.sql)
+    - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q4.sql)
 
 - Customer Preferences:
     - A -> ramen
     - B -> curry,sushi,ramen
     - C -> ramen
-Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q5.sql)
+    - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q5.sql)
 
 - First Purchased Item After Membership:
     - A -> curry
@@ -93,22 +93,22 @@ Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner
 - Last Purchased Item Before Membership:
     - A -> sushi,curry
     - B -> sushi
-Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q7.sql)
+    - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q7.sql)
 
 - Items Purchased and Amount Spent Before Membership:
     - A -> 2, $ 25
     - B -> 3, $ 40
-Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q8.sql)
+    - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q8.sql)
 
 - Total Points:
     - A -> 860
     - B -> 940
     - C -> 360
-Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q9.sql)
+    - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q9.sql)
 
 - Custom Points:
     - A -> 1020
     - B -> 440
-Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q10.sql)
+    - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q10.sql)
 
 Link to [Bonus Question](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Bonus_Question.sql)
