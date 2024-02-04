@@ -1,5 +1,9 @@
 # SQL--Case-Study-1-Dannys-Diner
 
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Danny's%20Diner.png' height="400">
+</p>
+
 ## Introduction
 
 Danny has a deep love for Japanese food. In the beginning of 2021, he took a bold step and opened a charming little restaurant featuring his top three favorite dishes: sushi, curry, and ramen. Now, Danny's Diner requires assistance to stay afloat. Despite collecting some basic data during the initial months of operation, the restaurant is unsure how to leverage that information to improve their business. They are seeking help to analyze and utilize the data effectively.
