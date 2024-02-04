@@ -61,13 +61,13 @@ The members table records important details about customers who joined the beta 
     - A -> $ 76
     - B -> $74
     - C -> $36
-Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q1.sql)
+    - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q1.sql)
 
 - Days Visited:
     - A -> 4
     - B -> 6
     - C -> 2
-Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q2.sql)
+    - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q2.sql)
 
 - First Item Ordered:
     - A -> curry,sushi
@@ -88,7 +88,7 @@ Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner
 - First Purchased Item After Membership:
     - A -> curry
     - B -> sushi
-Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q6.sql)
+    - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q6.sql)
 
 - Last Purchased Item Before Membership:
     - A -> sushi,curry
