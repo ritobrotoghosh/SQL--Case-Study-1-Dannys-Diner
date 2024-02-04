@@ -58,7 +58,7 @@ The members table records important details about customers who joined the beta 
 ## Solutions
 
 - Total Amount:
-    - A -> $ 76
+    - A -> $76
     - B -> $74
     - C -> $36
     - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q1.sql)
@@ -96,8 +96,8 @@ The members table records important details about customers who joined the beta 
     - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q7.sql)
 
 - Items Purchased and Amount Spent Before Membership:
-    - A -> 2, $ 25
-    - B -> 3, $ 40
+    - A -> 2, $25
+    - B -> 3, $40
     - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q8.sql)
 
 - Total Points:
