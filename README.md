@@ -112,3 +112,8 @@ The members table records important details about customers who joined the beta 
     - Link to [Query](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Q10.sql)
 
 Link to [Bonus Question](https://github.com/ritobrotoghosh/SQL--Case-Study-1-Dannys-Diner/blob/main/Bonus_Question.sql)
+
+## New Learnings
+
+- First Value Window Function
+- Last Value Window Function
