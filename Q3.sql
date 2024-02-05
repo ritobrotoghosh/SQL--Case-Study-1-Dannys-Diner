@@ -10,7 +10,7 @@ WITH my_cte AS (
 	JOIN menu m
 	ON s.product_id = m.product_id
 )
-SELECT customer_id, GROUP_CONCAT(product_name) AS items
+SELECT customer_id, GROUP_CONCAT(DISTINCT product_name) AS items
 FROM my_cte
 WHERE d_rank = 1
 GROUP BY customer_id
